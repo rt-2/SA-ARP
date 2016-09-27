@@ -1,8 +1,8 @@
-The version is currently: 3.2.1
+The version is currently: 3.2.1<br>
 The revision is currently #10
-
+<br><br>
 R10's goal is to bring more realism and immersion to the current gameplay.
-
+<br><br>
 Changelog r10 (2016 August 26) :
   - Cargos can no longer be loaded/unloaded from a locked vehicle;
   - All cargos, empty or not, will use minimum 10u of space in vehicles;

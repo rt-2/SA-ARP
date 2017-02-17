@@ -3,7 +3,7 @@ The revision is currently #12
 <br><br>
 R12's goal is to fix and improve basic mechanics
 <br><br>
-Changelog r11 (2017 Feb 17) :
+Changelog r12 (2017 Feb 17) :
   - Animations are now server-sided;
   - Added animation when player is talking;
 	- Simple elevator script created;

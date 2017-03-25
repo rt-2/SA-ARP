@@ -1,24 +1,10 @@
 The version is currently: 3.2.1<br>
-The revision is currently #12
+The revision is currently #13
 <br><br>
-R12's goal is to fix and improve basic mechanics
+R13's goal is to implement/improve anticheats
 <br><br>
-Changelog r12 (2017 Feb 17) :
-  - Animations are now server-sided;
-  - Added animation when player is talking;
-	- Simple elevator script created;
-	- Simple computer script created;
-	- The IMPEX is now automatic;
-	- Players can no longer car-park other players;
-	- Bikes can no longer make unrealisticly high jumps;
-	- Player's hearing system reworked;
-	- Player with a ping of 500+ are not authorized to drive vehicles;
-	- /gang_help added to help guide gangsters;
-	- /togooc added to toggle the General OOC Chat;
-	- /pee and /gangsign animations added;
-	- /factions, /jobs, /license, /gps added to help unfamiliar players;
-	- Door icons when rented now red instead of green;
-	- Vehicles fuel system tweaked;
-	- Trailer lights are now automaticly synced with the tractor's lights;
-	- OOC Advantages added for donators;
-	- Other minor bugs and fixes;
+Changelog r12 (2017 March 25) :
+  - Stabilize the core of the script to allow a more automatic and more complete anti-cheat;
+  - Players' inventory limited to 34 objects;
+  - /cargotake now works for cargos loaded in vehicles;
+  - Other minor bugs and fixes;

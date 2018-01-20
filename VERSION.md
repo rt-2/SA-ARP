@@ -1,15 +1,16 @@
 The version is currently: 3.2.1<br>
-The revision is currently #14
+The revision is currently #15
 <br><br>
-R14's goal is to help indutries grow equally.
+R15's goal is to progress toward an complete and equal roleplay system.
 <br><br>
-Changelog r14 (2017 July 22) :
-  - Vehicle's Blinkers script created;
-  - Fishing script created;
-  - Machine script created;
-  - Basic Cell Phone script added;
-  - Added a bus and train script for the public transportations;
-  - Added /mybike and /ownbike to claim ownership of a bycicle;
-  - Dealerships can now be sold completly without the help of the CITYP;
-  - /togooc now also disables the Local OOC Chat;
+Changelog r15 (2018 Jan 20) :
+  - Fire script created;
+  - Head shot to players in moving vehicles are no longer one hit kills;
+  - Players can recover vehicles from waters and impounds at SADA automatically now;
+  - Added /business to claim money from a dealership;
+  - New transition text after a player log off before he can be killed/frisked;
+  - /Frisk now also work on logged off players;
+  - Added the missing /lock command inside vehicle interiors;
+  - /sms, /call added to help unfamiliar players;
+  - /taxi added to help unfamiliar players;
   - Other minor bugs and fixes;

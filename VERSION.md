@@ -1,16 +1,15 @@
 The version is currently: 3.2.1<br>
-The revision is currently #15
+The revision is currently #16
 <br><br>
-R15's goal is to progress toward an complete and equal roleplay system.
+R16's goal is to .
 <br><br>
-Changelog r15 (2018 Jan 20) :
-  - Fire script created;
-  - Head shot to players in moving vehicles are no longer one hit kills;
-  - Players can recover vehicles from waters and impounds at SADA automatically now;
-  - Added /business to claim money from a dealership;
-  - New transition text after a player log off before he can be killed/frisked;
-  - /Frisk now also work on logged off players;
-  - Added the missing /lock command inside vehicle interiors;
-  - /sms, /call added to help unfamiliar players;
-  - /taxi added to help unfamiliar players;
-  - Other minor bugs and fixes;
+Changelog r16 (2018 Jan 27) :
+  - Cargo bugs related to forklift fixed;
+  - Fixed broken LSPD computer design;
+  - Enhanced anti-cheat reporting and kick system and fixed some bad instances;
+  - Fire script vehicle explosion angle fixed;
+  - Locked driver door animation fixed;
+  - /doc_locker now visible;
+  - Fixed crash when connecting after desync/crashes;
+  - Fixed infecteds melee attacks;
+  - Other minor bugs, fixes and stability improvements;

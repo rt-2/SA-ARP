@@ -1,15 +1,11 @@
 The version is currently: 3.2.1<br>
-The revision is currently #16
+The revision is currently #17
 <br><br>
-R16's goal is to .
+R17's goal is to maintain stability and add missings features.
 <br><br>
-Changelog r16 (2018 Jan 27) :
-  - Cargo bugs related to forklift fixed;
-  - Fixed broken LSPD computer design;
-  - Enhanced anti-cheat reporting and kick system and fixed some bad instances;
-  - Fire script vehicle explosion angle fixed;
-  - Locked driver door animation fixed;
-  - /doc_locker now visible;
-  - Fixed crash when connecting after desync/crashes;
-  - Fixed infecteds melee attacks;
+Changelog r17 (2018 Apr 28) :
+  - Vehicles' fuel capacity now depends on vehicle model types;
+  - /phone_removesim now added to remove a sim card from a device;
+  - Elevators will no longer teleport you when selecting your current floor;
+  - /newb and /ask proxies added to /requesthelp;
   - Other minor bugs, fixes and stability improvements;

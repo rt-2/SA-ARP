@@ -1,13 +1,17 @@
 The version is currently: 3.2.1<br>
-The revision is currently #17
+The revision is currently #18
 <br><br>
-R17's goal is to maintain stability and add missings features.
+R18's goal is to re-adjusting some of the main mechanics.
 <br><br>
-Changelog r17 (2018 Apr 28) :
-  - Vehicles' fuel capacity now depends on vehicle model types;
-  - /phone_removesim now added to remove a sim card from a device;
-  - Elevators will no longer teleport you when selecting your current floor;
-  - /newb and /ask proxies added to /requesthelp;
-  - Fixed streaming problems when getting in/out of vehicles' interior;
-  - Fixes and modifications in the fire/extinguisher script;
-  - Other minor bugs, fixes and stability improvements;
+Changelog r18 (2018 Jun 06) :
+  - Logged off players are now solid 3d actors;
+  - /grab created;
+  - Basic digestion/stomach/blood systems created;
+  - Eating too fast now have consequences;", dialogtxt);
+  - Smoking marijuana doesn't make you drunk anymore and give you health over time;
+  - Experimentally, doors' owners can now change their door name freely;
+  - Vehicles with keys left in can now be towed by anybody;
+  - Created an anti-falling script for connections and doors;
+  - /Shop and /buy will now look for the nearest shop, not the first in range;
+  - /Lock can now be used to lock/unlock doors and vehicles from inside a bike;
+  - Other minor bugs, fixes and changes;

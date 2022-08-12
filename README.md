@@ -1,5 +1,5 @@
 # SA-ARP
-San Andreas Advanced Role-Play
+**San Andreas Advanced Role-Play**.
 <br>
 SA Advanced Role-Play is a game mode dedicated to realism and real life physical limits.
 <br>

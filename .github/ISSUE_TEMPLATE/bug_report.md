@@ -1,20 +1,20 @@
 ---
 name: Bug report
-about: Signaler un bug ou comportement anormal
+about: Report a bug or unexpected behavior
 labels: 'type:bug, state:testing'
 ---
 
-**Symptôme**
-<!-- Ce qui se passe réellement -->
+**Symptom**
+<!-- What is actually happening -->
 
-**Attendu**
-<!-- Ce qui devrait se passer -->
+**Expected**
+<!-- What should happen instead -->
 
-**Comment reproduire**
-<!-- Étapes pour reproduire le bug -->
+**How to reproduce**
+<!-- Steps to reproduce the bug -->
 
-**Zone / Script touché**
-<!-- Ex: vehicles.pwn, /fuel command, gas station mechanic -->
+**Area / Script affected**
+<!-- e.g. vehicles.pwn, /fuel command, gas station mechanic -->
 
-**Comment tester le fix**
-<!-- Ce qu'on doit vérifier en jeu pour confirmer que c'est réglé -->
+**How to test the fix**
+<!-- What to verify in-game to confirm it is resolved -->
